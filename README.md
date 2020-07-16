@@ -1,3 +1,10 @@
+## Project Overview
+We are living in a very peculiar time in which we all have to do our part and try to slow the spread of Covid-19. The application I built is intended to show the public the 
+number of people who have been infected, the number of those who have recovered, and the number of those who have lost their lives.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
