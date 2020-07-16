@@ -2,6 +2,13 @@
 We are living in a very peculiar time in which we all have to do our part and try to slow the spread of Covid-19. The application I built is intended to show the public the 
 number of people who have been infected, the number of those who have recovered, and the number of those who have lost their lives.
 
+## Link to Deployed Version
+https://fraigoza200.github.io/coronavirus-tracker/
+
+
+## How it works
+The initial page that gets rendered onto the screen is the number of people who are infected, those whoe have recovered, and those who have lost their lives on a global scale. A user can click the drop down menu where they can select any county and will then be shown the numbers of those who are infected, those who have recoverd, and those who have lost their lives. 
+
 
 
 
